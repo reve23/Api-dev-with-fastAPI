@@ -1,0 +1,6 @@
+pipenv
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+flask
+SQLAlchemy==1.3.23
